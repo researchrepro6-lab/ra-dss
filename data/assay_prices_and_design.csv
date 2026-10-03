@@ -1,0 +1,15 @@
+key,cpt_code,assay,price_usd,price_status,phase,phase_status,salience,salience_status,available_windows,availability_status
+PT,85610,Prothrombin time,4.29,OBS,early,ASM,0.80,ASM,t0 t1 t2 t3 t4 t5,ASM
+CBC,85025,Complete blood count w/ auto diff,7.77,OBS,early,ASM,1.00,ASM,t0 t1 t2 t3 t4 t5,ASM
+BMP,80048,Basic metabolic panel,8.46,OBS,early,ASM,1.05,ASM,t0 t1 t2 t3 t4 t5,ASM
+CMP,80053,Comprehensive metabolic panel,10.56,OBS,early,ASM,1.20,ASM,t0 t1 t2 t3 t4 t5,ASM
+LAC,83605,Lactate (lactic acid),11.57,OBS,early,ASM,1.35,ASM,t0 t1 t2 t3 t4 t5,ASM
+ABG,82803,"Blood gases, any combination",26.07,OBS,early,ASM,1.45,ASM,t0 t1 t2 t3 t4 t5,ASM
+PHOS,84100,Phosphorus,4.74,OBS,late,ASM,0.75,ASM,t0 t1 t2 t3 t4 t5,ASM
+CRP,86140,C-reactive protein,5.18,OBS,late,ASM,0.95,ASM,t0 t1 t2 t3 t4 t5,ASM
+MG,83735,Magnesium,6.70,OBS,late,ASM,0.80,ASM,t0 t1 t2 t3 t4 t5,ASM
+DDIM,85379,D-dimer (fibrin degradation),10.18,OBS,late,ASM,1.05,ASM,t0 t1 t2 t3 t4 t5,ASM
+CULT,87040,"Blood culture, bacteria",10.32,OBS,late,ASM,1.15,ASM,t2 t3 t4 t5,ASM
+TROP,84484,"Troponin, quantitative",12.47,OBS,late,ASM,1.25,ASM,t0 t1 t2 t3 t4 t5,ASM
+PCT,84145,Procalcitonin,27.22,OBS,late,ASM,1.50,ASM,t0 t3,ASM
+BNP,83880,Natriuretic peptide (BNP),39.26,OBS,late,ASM,1.10,ASM,t0 t2 t4,ASM
